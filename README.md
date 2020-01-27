@@ -38,8 +38,8 @@ This project includes a web app where an emergency worker can input a new messag
 
 Below are a few screenshots of the web app.
 
-<img src="Capture1.png" width="80%">
-<img src="Capture2.png" width="80%">
+<img src="Capture1.PNG" width="80%">
+<img src="Capture2.PNG" width="80%">
 
 
 
