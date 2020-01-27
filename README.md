@@ -24,19 +24,21 @@ This project includes a web app where an emergency worker can input a new messag
 
 - models
 > - train_classifier.py
-> - classifier.pkl  # saved model 
+> - classifier.pkl  # saved model
+
+- Capture1.PNG # Screenshot 
+- Capture2.PNG # Screenshot 
 
 - ETL Pipeline Preparation.ipynb # Notebook file
 - ML Pipeline Preparation.ipynb  # Notebook file
 
 - README.md
 
-- screenshot1.png # PNG file
-- screenshot2.png # PNG file
+
 
 Below are a few screenshots of the web app.
 
-<img src="screenshot1.png" width="80%"> <img src="screenshot2.png" width="80%">
+<img src="Capture1.png" width="80%"> <img src="Capture2.png" width="80%">
 
 
 
