@@ -17,14 +17,14 @@ This project includes a web app where an emergency worker can input a new messag
 > - run.py  # Flask file that runs app
 
 - data
-|- disaster_categories.csv  # data to process 
-|- disaster_messages.csv  # data to process
-|- process_data.py
-|- InsertDatabaseName.db   # database to save clean data to
+> - disaster_categories.csv  # data to process 
+> - disaster_messages.csv  # data to process
+> - process_data.py
+> - DisasterResponse.db   # database to save clean data to
 
 - models
-|- train_classifier.py
-|- classifier.pkl  # saved model 
+> - train_classifier.py
+> - classifier.pkl  # saved model 
 
 - ETL Pipeline Preparation.ipynb # Notebook file
 - ML Pipeline Preparation.ipynb  # Notebook file
