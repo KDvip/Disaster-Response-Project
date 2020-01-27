@@ -11,7 +11,7 @@ This project includes a web app where an emergency worker can input a new messag
 ### File Structure :
 
 - app
-| - template
+> - template
 | |- master.html  # main page of web app
 | |- go.html  # classification result page of web app
 |- run.py  # Flask file that runs app
