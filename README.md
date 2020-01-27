@@ -31,13 +31,13 @@ This project includes a web app where an emergency worker can input a new messag
 
 - README.md
 
--screenshot1.png # PNG file
--screenshot2.png # PNG file
+- screenshot1.png # PNG file
+- screenshot2.png # PNG file
 
 Below are a few screenshots of the web app.
 
-<img src="screenshot1.png" width="80%" alt="disaster response project web app">
-<img src="screenshot2.png" width="80%" alt="disaster response project web app">
+<img src="screenshot1.png" width="80%">
+<img src="screenshot2.png" width="80%">
 
 
 
